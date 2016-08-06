@@ -12,7 +12,8 @@
 %% I stole code from both the original files and Google Groups. 		
 %% So there is no copyright I guess.  									
 %%																		
-%% For more info see: http://goo.gl/zetrF8								%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% For more info see: http://goo.gl/zetrF8
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %% Copy+pasted from `apa-ben.bst':
 
