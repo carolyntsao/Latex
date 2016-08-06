@@ -1,19 +1,18 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% File: `unsrtnatapa.bst'												%
-%%																		%
-%% A modification of the modification (don't you love how meta this is?)%
-%% of `unsrt.bst', `apa-ben.bst' and `apalike.bst' 						%
-%% for use with natbib package.							 				%
-%% 																		%
-%% I also fixed some blank space issue regarding url output				%
-%% within the Reference list.											%
-%%																		%
-%%																		%
-%% I stole code from both the original files and Google Groups. 		%
-%% So there is no copyright I guess.  									%
-%%																		%
-%% For more info see: http://goo.gl/zetrF8								%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% File: `unsrtnatapa.bst'												
+%%																		
+%% A modification of the modification (don't you love how meta this is?)
+%% of `unsrt.bst', `apa-ben.bst' and `apalike.bst' 						
+%% for use with natbib package.							 				
+%% 																		
+%% I also fixed some blank space issue regarding url output				
+%% within the Reference list.											
+%%																		
+%%																		
+%% I stole code from both the original files and Google Groups. 		
+%% So there is no copyright I guess.  									
+%%																		
+%% For more info see: http://goo.gl/zetrF8								%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %% Copy+pasted from `apa-ben.bst':
 
